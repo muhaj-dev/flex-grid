@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Encode+Sans:wght@400;700&family=Lexend+Deca&display=swap');
 
 
-/* font-family: 'Lexend Deca', sans-serif; */
 *{
     margin: 0;
     padding: 0;
@@ -14,7 +13,7 @@ body {
 
 }
 header{
-    background-color: aqua;
+    background-color: rgb(12, 83, 163);
     margin-bottom: 20px;
     padding: 10px;
     display: flex;
