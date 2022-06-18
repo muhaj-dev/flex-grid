@@ -74,7 +74,7 @@ p{
 }
 
 .ba{
-    padding: 15px;
+    padding: 10px 20px;
     border: none;
     border-radius: 20px;
     color: white;
@@ -82,7 +82,7 @@ p{
     color: hsl(31, 77%, 52%);      
 }
 .bb{
-    padding: 15px;
+    padding: 10px 20px;
     border: none;
     border-radius: 20px;
     color: white;
@@ -90,10 +90,15 @@ p{
     color: hsl(184, 100%, 22%);      
 }
 .bc{
-    padding: 15px;
+    padding: 10px 20px;
     border: none;
     border-radius: 20px;
     color: white;
     background-color: white;
     color: hsl(179, 100%, 13%);
+}
+button:hover{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
 }
