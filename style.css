@@ -102,3 +102,13 @@ button:hover{
     border: 1px solid white;
 }
 
+@media screen and (max-width: 768px){
+    main{
+        display: flex;
+        justify-content: center;
+    }
+    .flex-body{
+        display: block;
+        margin: 50px auto;
+    }
+}
